@@ -1,4 +1,5 @@
 /*
+Sayısal loto tahmin programı
  by Faruk Karaman
  */
 
