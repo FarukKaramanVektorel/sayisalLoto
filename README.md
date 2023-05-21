@@ -1,5 +1,5 @@
 # sayisalLoto
-Java console sayısal Loto tahmin programı.
+## Java console sayısal loto tahmin programı.
 
 <img src="https://i.hizliresim.com/oochcf8.png" width="auto">
 
