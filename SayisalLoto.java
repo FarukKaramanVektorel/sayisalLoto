@@ -34,11 +34,11 @@ public class SayisalLoto {
             Arrays.sort(loto);
             System.out.println("Tahmini sayisal loto sonuclari");
             System.out.println(Arrays.toString(loto));
-            System.out.println("Tekrar oynamak istermisiniz (e/h)?");
+            System.out.println("Tekrar oynamak istermisiniz (evet/hayır)?");
             String evetHayir = scn.next();
-            if (evetHayir.equals("e")) {
+            if (evetHayir.equals("evet")) {
                 oyun = true;
-            } else if (evetHayir.equals("h")) {
+            } else if (evetHayir.equals("hayır")) {
                 oyun = false;
                 System.out.println("Oyun sonlandırıldı.");
             }
